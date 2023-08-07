@@ -2,3 +2,6 @@ openai
 pandas
 tiktoken
 scipy
+flask-socketio
+Flask
+Flask-Cors
